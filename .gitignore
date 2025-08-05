@@ -1,0 +1,19 @@
+# Gradle distributions and large files
+gradle.zip
+gradle-home/
+
+# Build outputs
+build/
+*/build/
+
+# Local properties
+local.properties
+
+# IDE files
+.idea/
+*.iml
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
